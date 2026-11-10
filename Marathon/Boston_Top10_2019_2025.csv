@@ -1,0 +1,121 @@
+"marathon","year","gender","athlete","rank","country","finish_time","finish_time_seconds","prize_money"
+"Boston",2019,"F","Worknesh Degefa",1,"Ethiopia","2:23:31",8611,150000
+"Boston",2019,"F","Edna Kiplagat",2,"Kenya","2:24:13",8653,75000
+"Boston",2019,"F","Jordan Hasay",3,"United States","2:25:20",8720,40000
+"Boston",2019,"F","Meskerem Assefa",4,"Ethiopia","2:25:40",8740,25000
+"Boston",2019,"F","Des Linden",5,"United States","2:27:00",8820,18000
+"Boston",2019,"F","Caroline Rotich",6,"Kenya","2:28:27",8907,13500
+"Boston",2019,"F","Mary Ngugi",7,"Kenya","2:28:33",8913,10500
+"Boston",2019,"F","Biruktayit Degefa",8,"Ethiopia","2:29:10",8950,8500
+"Boston",2019,"F","Lindsay Flanagan",9,"United States","2:30:07",9007,7000
+"Boston",2019,"F","Betsy Saina",10,"Kenya","2:30:32",9032,5500
+"Boston",2019,"M","Lawrence Cherono",1,"Kenya","2:07:57",7677,150000
+"Boston",2019,"M","Lelisa Desisa",2,"Ethiopia","2:07:59",7679,75000
+"Boston",2019,"M","Kenneth Kipkemoi",3,"Kenya","2:08:07",7687,40000
+"Boston",2019,"M","Felix Kandie",4,"Kenya","2:08:54",7734,25000
+"Boston",2019,"M","Geoffrey Kirui",5,"Kenya","2:08:55",7735,18000
+"Boston",2019,"M","Philemon Rono",6,"Kenya","2:08:57",7737,13500
+"Boston",2019,"M","Scott Fauble",7,"United States","2:09:09",7749,10500
+"Boston",2019,"M","Jared Ward",8,"United States","2:09:25",7765,8500
+"Boston",2019,"M","Festus Talam",9,"Kenya","2:09:25",7765,7000
+"Boston",2019,"M","Benson Kipruto",10,"Kenya","2:09:53",7793,5500
+"Boston",2021,"F","Edna Kiplagat",1,"Kenya","2:25:09",8709,150000
+"Boston",2021,"F","Mary Ngugi",2,"Kenya","2:25:20",8720,75000
+"Boston",2021,"F","Monicah Ngige",3,"Kenya","2:25:32",8732,40000
+"Boston",2021,"F","Netsanet Gudeta",4,"Ethiopia","2:26:09",8769,25000
+"Boston",2021,"F","Nell Rojas",5,"United States","2:27:12",8832,18000
+"Boston",2021,"F","Workenesh Edesa",6,"Ethiopia","2:27:38",8858,13500
+"Boston",2021,"F","Atsede Baysa",7,"Ethiopia","2:28:04",8884,10500
+"Boston",2021,"F","Biruktayit Eshetu",8,"Ethiopia","2:29:05",8945,8500
+"Boston",2021,"F","Tigist Abayechew",9,"Kenya","2:29:06",8946,7000
+"Boston",2021,"F","Caroline Rotich",10,"Kenya","2:29:54",8994,5500
+"Boston",2021,"M","Benson Kipruto",1,"Kenya","2:09:51",7791,150000
+"Boston",2021,"M","Lemi Berhanu",2,"Ethiopia","2:10:37",7837,75000
+"Boston",2021,"M","Jemal Yimer",3,"Ethiopia","2:10:38",7838,40000
+"Boston",2021,"M","Tsedat Ayana",4,"Ethiopia","2:10:47",7847,25000
+"Boston",2021,"M","Leonard Barsoton",5,"Kenya","2:11:11",7871,18000
+"Boston",2021,"M","Bayelign Teshager",6,"Ethiopia","2:11:16",7876,13500
+"Boston",2021,"M","Colin Bennie",7,"United States","2:11:26",7886,10500
+"Boston",2021,"M","Dejene Debela",8,"Ethiopia","2:11:38",7898,8500
+"Boston",2021,"M","Wilson Chebet",9,"Kenya","2:11:40",7900,7000
+"Boston",2021,"M","CJ Albertson",10,"United States","2:11:44",7904,5500
+"Boston",2022,"F","Peres Jepchirchir",1,"Kenya","2:21:01",8461,150000
+"Boston",2022,"F","Ababel Yeshaneh",2,"Ethiopia","2:21:05",8465,75000
+"Boston",2022,"F","Mary Ngugi",3,"Kenya","2:21:32",8492,40000
+"Boston",2022,"F","Edna Kiplagat",4,"Kenya","2:21:40",8500,25000
+"Boston",2022,"F","Monicah Ngige",5,"Kenya","2:22:13",8533,18000
+"Boston",2022,"F","Viola Cheptoo",6,"Kenya","2:23:47",8627,13500
+"Boston",2022,"F","Joyciline Jepkosgei",7,"Kenya","2:24:43",8683,10500
+"Boston",2022,"F","Degitu Azimeraw",8,"Ethiopia","2:25:23",8723,8500
+"Boston",2022,"F","Charlotte Purdue",9,"United Kingdom","2:25:26",8726,7000
+"Boston",2022,"F","Nell Rojas",10,"United States","2:25:57",8757,5500
+"Boston",2022,"M","Evans Chebet",1,"Kenya","2:06:51",7611,150000
+"Boston",2022,"M","Lawrence Cherono",2,"Kenya","2:07:21",7641,75000
+"Boston",2022,"M","Benson Kipruto",3,"Kenya","2:07:27",7647,40000
+"Boston",2022,"M","Gabriel Geay",4,"Tanzania","2:07:53",7673,25000
+"Boston",2022,"M","Eric Kiptanui",5,"Kenya","2:08:47",7727,18000
+"Boston",2022,"M","Albert Korir",6,"Kenya","2:08:50",7730,13500
+"Boston",2022,"M","Scott Fauble",7,"United States","2:08:52",7732,10500
+"Boston",2022,"M","Jemal Yimer",8,"Ethiopia","2:08:58",7738,8500
+"Boston",2022,"M","Elkanah Kibet",9,"United States","2:09:07",7747,7000
+"Boston",2022,"M","Kinde Atanaw",10,"Ethiopia","2:09:16",7756,5500
+"Boston",2023,"F","Hellen Obiri",1,"Kenya","2:21:38",8498,150000
+"Boston",2023,"F","Amane Beriso",2,"Ethiopia","2:21:50",8510,75000
+"Boston",2023,"F","Lonah Salpeter",3,"Israel","2:21:57",8517,40000
+"Boston",2023,"F","Ababel Yeshaneh",4,"Ethiopia","2:22:00",8520,25000
+"Boston",2023,"F","Emma Bates",5,"United States","2:22:10",8530,18000
+"Boston",2023,"F","Nazret Weldu",6,"Eritrea","2:23:25",8605,13500
+"Boston",2023,"F","Angela Tanui",7,"Kenya","2:24:12",8652,10500
+"Boston",2023,"F","Hiwot Gebremaryam",8,"Ethiopia","2:24:30",8670,8500
+"Boston",2023,"F","Mary Ngugi",9,"Kenya","2:24:33",8673,7000
+"Boston",2023,"F","Gotytom Gebreslase",10,"Ethiopia","2:24:34",8674,5500
+"Boston",2023,"M","Evans Chebet",1,"Kenya","2:05:54",7554,150000
+"Boston",2023,"M","Gabriel Geay",2,"Tanzania","2:06:04",7564,75000
+"Boston",2023,"M","Benson Kipruto",3,"Kenya","2:06:06",7566,40000
+"Boston",2023,"M","Albert Korir",4,"Kenya","2:08:01",7681,25000
+"Boston",2023,"M","Zouhair Talbi",5,"Morocco","2:08:35",7715,18000
+"Boston",2023,"M","Eliud Kipchoge",6,"Kenya","2:09:23",7763,13500
+"Boston",2023,"M","Scott Fauble",7,"United States","2:09:44",7784,10500
+"Boston",2023,"M","Hassan Chahdi",8,"France","2:09:46",7786,8500
+"Boston",2023,"M","John Korir",9,"Kenya","2:10:04",7804,7000
+"Boston",2023,"M","Matthew McDonald",10,"United States","2:10:17",7817,5500
+"Boston",2024,"F","Hellen Obiri",1,"Kenya","2:22:37",8557,150000
+"Boston",2024,"F","Sharon Lokedi",2,"Kenya","2:22:45",8565,75000
+"Boston",2024,"F","Edna Kiplagat",3,"Kenya","2:23:21",8601,40000
+"Boston",2024,"F","Buze Diriba",4,"Ethiopia","2:24:04",8644,25000
+"Boston",2024,"F","Senbere Teferi",5,"Ethiopia","2:24:04",8644,18000
+"Boston",2024,"F","Mary Ngugi",6,"Kenya","2:24:24",8664,13500
+"Boston",2024,"F","Workenesh Edesa",7,"Ethiopia","2:24:47",8687,10500
+"Boston",2024,"F","Fatima Ezzahra Gardadi",8,"Morocco","2:24:53",8693,8500
+"Boston",2024,"F","Tiruye Mesfin",9,"Ethiopia","2:24:58",8698,7000
+"Boston",2024,"F","Dera Dida",10,"Ethiopia","2:25:16",8716,5500
+"Boston",2024,"M","Sisay Lemma",1,"Ethiopia","2:06:17",7577,150000
+"Boston",2024,"M","Mohamed Esa",2,"Ethiopia","2:06:58",7618,75000
+"Boston",2024,"M","Evans Chebet",3,"Kenya","2:07:22",7642,40000
+"Boston",2024,"M","John Korir",4,"Kenya","2:07:40",7660,25000
+"Boston",2024,"M","Albert Korir",5,"Kenya","2:07:47",7667,18000
+"Boston",2024,"M","Isaac Mpofu",6,"Zimbabwe","2:08:17",7697,13500
+"Boston",2024,"M","CJ Albertson",7,"United States","2:09:53",7793,10500
+"Boston",2024,"M","Yuma Morii",8,"Japan","2:09:59",7799,8500
+"Boston",2024,"M","Cyprian Kimurgor Kotut",9,"Kenya","2:10:29",7829,7000
+"Boston",2024,"M","Zouhair Talbi",10,"Morocco","2:10:45",7845,5500
+"Boston",2025,"F","Sharon Lokedi",1,"Kenya","2:17:22",8242,150000
+"Boston",2025,"F","Hellen Obiri",2,"Kenya","2:17:41",8261,75000
+"Boston",2025,"F","Yalemzerf Yehualaw",3,"Ethiopia","2:18:06",8286,40000
+"Boston",2025,"F","Irene Cheptai",4,"Kenya","2:21:32",8492,25000
+"Boston",2025,"F","Amane Beriso",5,"Ethiopia","2:21:58",8518,18000
+"Boston",2025,"F","Calli Hauger-Thackery",6,"United Kingdom","2:22:38",8558,13500
+"Boston",2025,"F","Jessica McClain",7,"United States","2:22:43",8563,10500
+"Boston",2025,"F","Annie Frisbie",8,"United States","2:23:21",8601,8500
+"Boston",2025,"F","Stacy Ndiwa",9,"Kenya","2:23:29",8609,7000
+"Boston",2025,"F","Tsige Haileslase",10,"Ethiopia","2:23:43",8623,5500
+"Boston",2025,"M","John Korir",1,"Kenya","2:04:45",7485,150000
+"Boston",2025,"M","Alphonce Simbu",2,"Tanzania","2:05:04",7504,75000
+"Boston",2025,"M","Cybrian Kotut",3,"Kenya","2:05:04",7504,40000
+"Boston",2025,"M","Conner Mantz",4,"United States","2:05:08",7508,25000
+"Boston",2025,"M","Muktar Edris",5,"Ethiopia","2:05:59",7559,18000
+"Boston",2025,"M","Rory Linkletter",6,"Canada","2:07:02",7622,13500
+"Boston",2025,"M","Clayton Young",7,"United States","2:07:04",7624,10500
+"Boston",2025,"M","Tebello Ramakongoana",8,"Lesotho","2:07:19",7639,8500
+"Boston",2025,"M","Daniel Mateiko",9,"Kenya","2:07:52",7672,7000
+"Boston",2025,"M","Ryan Ford",10,"United States","2:08:00",7680,5500

@@ -1,0 +1,169 @@
+"marathon","year","gender","athlete","rank","country","finish_time","finish_time_seconds","prize_money"
+"London",2019,"F","Brigid Kosgei",1,"Kenya","2:18:20",8300,55000
+"London",2019,"F","Vivian Cheruiyot",2,"Kenya","2:20:14",8414,30000
+"London",2019,"F","Roza Dereje",3,"Ethiopia","2:20:51",8451,22500
+"London",2019,"F","Gladys Cherono Kiprono",4,"Kenya","2:20:52",8452,15000
+"London",2019,"F","Mary Jepkosgei Keitany",5,"Kenya","2:20:58",8458,10000
+"London",2019,"F","Emily Sisson",6,"United States","2:23:08",8588,7500
+"London",2019,"F","Sinead Diver",7,"Australia","2:24:11",8651,5000
+"London",2019,"F","Carla Salomé Rocha",8,"Portugal","2:24:47",8687,4000
+"London",2019,"F","Birhane Dibaba",9,"Ethiopia","2:25:04",8704,3000
+"London",2019,"F","Charlotte Purdue",10,"United Kingdom","2:25:38",8738,2000
+"London",2019,"F","Linet Masai",11,"KEN","2:26:06",8766,1500
+"London",2019,"F","Molly Huddle",12,"USA","2:26:33",8793,1000
+"London",2019,"M","Eliud Kipchoge",1,"Kenya","2:02:37",7357,55000
+"London",2019,"M","Mosinet Geremew",2,"Ethiopia","2:02:55",7375,30000
+"London",2019,"M","Mule Wasihun",3,"Ethiopia","2:03:16",7396,22500
+"London",2019,"M","Shura Kitata",4,"Ethiopia","2:05:01",7501,15000
+"London",2019,"M","Mo Farah",5,"United Kingdom","2:05:39",7539,10000
+"London",2019,"M","Tamirat Tola",6,"Ethiopia","2:06:57",7617,7500
+"London",2019,"M","Bashir Abdi",7,"Belgium","2:07:03",7623,5000
+"London",2019,"M","Leul Gebresilase",8,"Ethiopia","2:07:15",7635,4000
+"London",2019,"M","Yassine Rachik",9,"Italy","2:08:05",7685,3000
+"London",2019,"M","Callum Hawkins",10,"United Kingdom","2:08:14",7694,2000
+"London",2019,"M","Daniel Wanjiru",11,"KEN","2:08:40",7720,1500
+"London",2019,"M","Wilson Kipsang",12,"KEN","2:09:18",7758,1000
+"London",2020,"F","Brigid Kosgei",1,"Kenya","2:18:58",8338,30000
+"London",2020,"F","Sara Hall",2,"United States","2:22:01",8521,15000
+"London",2020,"F","Ruth Chepng'etich",3,"Kenya","2:22:05",8525,10000
+"London",2020,"F","Ashete Bekere",4,"Ethiopia","2:22:51",8571,7500
+"London",2020,"F","Alemu Megertu",5,"Ethiopia","2:24:23",8663,5000
+"London",2020,"F","Molly Seidel",6,"United States","2:25:13",8713,3500
+"London",2020,"F","Gerda Steyn",7,"South Africa","2:26:51",8811,2500
+"London",2020,"F","Sinead Diver",8,"Australia","2:27:07",8827,2000
+"London",2020,"F","Darya Mykhaylova",9,"Ukraine","2:27:29",8849,1500
+"London",2020,"F","Valary Jemeli",10,"Kenya","2:28:18",8898,1000
+"London",2020,"F","Edith Chelimo",11,"KEN","2:29:03",8943,750
+"London",2020,"F","Ellie Pashley",12,"AUS","2:31:31",9091,500
+"London",2020,"M","Shura Kitata",1,"Ethiopia","2:05:41",7541,30000
+"London",2020,"M","Vincent Kipchumba",2,"Kenya","2:05:42",7542,15000
+"London",2020,"M","Sisay Lemma",3,"Ethiopia","2:05:45",7545,10000
+"London",2020,"M","Mosinet Geremew",4,"Ethiopia","2:06:04",7564,7500
+"London",2020,"M","Mule Wasihun",5,"Ethiopia","2:06:08",7568,5000
+"London",2020,"M","Tamirat Tola",6,"Ethiopia","2:06:41",7601,3500
+"London",2020,"M","Benson Kipruto",7,"Kenya","2:06:42",7602,2500
+"London",2020,"M","Eliud Kipchoge",8,"Kenya","2:06:49",7609,2000
+"London",2020,"M","Sondre Nordstad Moen",9,"Norway","2:09:01",7741,1500
+"London",2020,"M","Marius Kipserem",10,"Kenya","2:09:25",7765,1000
+"London",2020,"M","Stephen Scullion",11,"IRL","2:09:49",7789,750
+"London",2020,"M","Peter Herzog",12,"AUT","2:10:06",7806,500
+"London",2021,"F","Joyciline Jepkosgei",1,"Kenya","2:17:43",8263,55000
+"London",2021,"F","Degitu Azimeraw",2,"Ethiopia","2:17:58",8278,30000
+"London",2021,"F","Ashete Bekere",3,"Ethiopia","2:18:18",8298,22500
+"London",2021,"F","Brigid Kosgei",4,"Kenya","2:18:40",8320,15000
+"London",2021,"F","Lonah Chemtai Salpeter",5,"Israel","2:18:54",8334,10000
+"London",2021,"F","Valary Jemeli",6,"Kenya","2:20:35",8435,7500
+"London",2021,"F","Joan Melly",7,"Kenya","2:21:23",8483,5000
+"London",2021,"F","Zeineba Yimer",8,"Ethiopia","2:21:40",8500,4000
+"London",2021,"F","Tigist Girma",9,"Ethiopia","2:22:45",8565,3000
+"London",2021,"F","Charlotte Purdue",10,"United Kingdom","2:23:26",8606,2000
+"London",2021,"F","Birhane Dibaba",11,"ETH","2:24:21",8661,1500
+"London",2021,"F","Sinead Diver",12,"AUS","2:27:16",8836,1000
+"London",2021,"M","Sisay Lemma",1,"Ethiopia","2:04:01",7441,55000
+"London",2021,"M","Vincent Kipchumba",2,"Kenya","2:04:28",7468,30000
+"London",2021,"M","Mosinet Geremew",3,"Ethiopia","2:04:41",7481,22500
+"London",2021,"M","Evans Chebet",4,"Kenya","2:05:43",7543,15000
+"London",2021,"M","Birhanu Legese",5,"Ethiopia","2:06:10",7570,10000
+"London",2021,"M","Shura Kitata",6,"Ethiopia","2:07:51",7671,7500
+"London",2021,"M","Philip Sesemann",7,"United Kingdom","2:12:58",7978,5000
+"London",2021,"M","Josh Griffiths",8,"United Kingdom","2:13:39",8019,4000
+"London",2021,"M","Matthew Leach",9,"United Kingdom","2:15:31",8131,3000
+"London",2021,"M","Andrew Davies",10,"United Kingdom","2:15:36",8136,2000
+"London",2021,"M","Jonathan Mellor",11,"GBR","2:16:09",8169,1500
+"London",2021,"M","Weynay Ghebresilasie",12,"GBR","2:16:27",8187,1000
+"London",2022,"F","Yalemzerf Yehualaw",1,"Ethiopia","2:17:26",8246,55000
+"London",2022,"F","Joyciline Jepkosgei",2,"Kenya","2:18:07",8287,30000
+"London",2022,"F","Alemu Megertu",3,"Ethiopia","2:18:32",8312,22500
+"London",2022,"F","Judith Jeptum Korir",4,"Kenya","2:18:43",8323,15000
+"London",2022,"F","Joan Chelimo Melly",5,"Romania","2:19:27",8367,10000
+"London",2022,"F","Ashete Bekere",6,"Ethiopia","2:19:30",8370,7500
+"London",2022,"F","Mary Ngugi",7,"Kenya","2:20:22",8422,5000
+"London",2022,"F","Sutume Asefa Kebede",8,"Ethiopia","2:20:44",8444,4000
+"London",2022,"F","Ai Hosoda",9,"Japan","2:21:42",8502,3000
+"London",2022,"F","Rose Harvey",10,"United Kingdom","2:27:59",8879,2000
+"London",2022,"F","Marci Klimek",11,"USA","2:37:56",9476,1500
+"London",2022,"F","Stephanie Twell",12,"GBR","2:39:16",9556,1000
+"London",2022,"M","Amos Kipruto",1,"Kenya","2:04:39",7479,55000
+"London",2022,"M","Leul Gebresilase",2,"Ethiopia","2:05:12",7512,30000
+"London",2022,"M","Bashir Abdi",3,"Belgium","2:05:19",7519,22500
+"London",2022,"M","Kinde Atanaw",4,"Ethiopia","2:05:27",7527,15000
+"London",2022,"M","Kenenisa Bekele",5,"Ethiopia","2:05:53",7553,10000
+"London",2022,"M","Birhanu Legese",6,"Ethiopia","2:06:11",7571,7500
+"London",2022,"M","Sisay Lemma",7,"Ethiopia","2:07:26",7646,5000
+"London",2022,"M","Brett Robinson",8,"Australia","2:09:52",7792,4000
+"London",2022,"M","Weynay Ghebresilasie",9,"United Kingdom","2:11:57",7917,3000
+"London",2022,"M","Philip Sesemann",10,"United Kingdom","2:12:10",7930,2000
+"London",2022,"M","Kohei Futaoka",11,"JPN","2:14:18",8058,1500
+"London",2022,"M","Ross Braden",12,"GBR","2:14:32",8072,1000
+"London",2023,"F","Sifan Hassan",1,"Netherlands","2:18:33",8313,55000
+"London",2023,"F","Alemu Megertu",2,"Ethiopia","2:18:37",8317,30000
+"London",2023,"F","Peres Jepchirchir",3,"Kenya","2:18:38",8318,22500
+"London",2023,"F","Sheila Chepkirui",4,"Kenya","2:18:51",8331,15000
+"London",2023,"F","Yalemzerf Yehualaw",5,"Ethiopia","2:18:53",8333,10000
+"London",2023,"F","Judith Jeptum Korir",6,"Kenya","2:20:41",8441,7500
+"London",2023,"F","Almaz Ayana",7,"Ethiopia","2:20:44",8444,5000
+"London",2023,"F","Tadu Teshome",8,"Ethiopia","2:21:31",8491,4000
+"London",2023,"F","Sofiia Yaremchuk",9,"Italy","2:24:02",8642,3000
+"London",2023,"F","Susanna Sullivan",10,"United States","2:24:27",8667,2000
+"London",2023,"F","Samantha Harrison",11,"GBR","2:25:59",8759,1500
+"London",2023,"F","Dominique Scott",12,"RSA","2:29:19",8959,1000
+"London",2023,"M","Kelvin Kiptum",1,"Kenya","2:01:25",7285,55000
+"London",2023,"M","Geoffrey Kamworor",2,"Kenya","2:04:23",7463,30000
+"London",2023,"M","Tamirat Tola",3,"Ethiopia","2:04:59",7499,22500
+"London",2023,"M","Leul Gebresilase",4,"Ethiopia","2:05:45",7545,15000
+"London",2023,"M","Seifu Tura",5,"Ethiopia","2:06:38",7598,10000
+"London",2023,"M","Emile Cairess",6,"United Kingdom","2:08:07",7687,7500
+"London",2023,"M","Brett Robinson",7,"Australia","2:10:19",7819,5000
+"London",2023,"M","Philip Sesemann",8,"United Kingdom","2:10:23",7823,4000
+"London",2023,"M","Mo Farah",9,"United Kingdom","2:10:28",7828,3000
+"London",2023,"M","Chris Thompson",10,"United Kingdom","2:11:50",7910,2000
+"London",2023,"M","Frank Lara",11,"USA","2:13:29",8009,1500
+"London",2023,"M","Tom Gröschel",12,"GER","2:13:29",8009,1000
+"London",2024,"F","Peres Jepchirchir",1,"Kenya","2:16:16",8176,55000
+"London",2024,"F","Tigst Assefa",2,"Ethiopia","2:16:23",8183,30000
+"London",2024,"F","Joyciline Jepkosgei",3,"Kenya","2:16:24",8184,22500
+"London",2024,"F","Megertu Alemu",4,"Ethiopia","2:16:34",8194,15000
+"London",2024,"F","Brigid Kosgei",5,"Kenya","2:19:02",8342,10000
+"London",2024,"F","Sheila Chepkirui",6,"Kenya","2:19:31",8371,7500
+"London",2024,"F","Tigist Ketema",7,"Ethiopia","2:23:21",8601,5000
+"London",2024,"F","Yalemzerf Yehualaw",8,"Ethiopia","2:23:26",8606,4000
+"London",2024,"F","Ruth Chepngetich",9,"Kenya","2:24:36",8676,3000
+"London",2024,"F","Tsige Haileslase",10,"Ethiopia","2:25:03",8703,2000
+"London",2024,"F","Mhairi Maclennan",11,"GBR","2:29:15",8955,1500
+"London",2024,"F","Becky Briggs",12,"GBR","2:35:25",9325,1000
+"London",2024,"M","Alexander Mutiso",1,"Kenya","2:04:01",7441,55000
+"London",2024,"M","Kenenisa Bekele",2,"Ethiopia","2:04:15",7455,30000
+"London",2024,"M","Emile Cairess",3,"United Kingdom","2:06:46",7606,22500
+"London",2024,"M","Mahamed Mahamed",4,"United Kingdom","2:07:05",7625,15000
+"London",2024,"M","Hassan Chahdi",5,"France","2:07:30",7650,10000
+"London",2024,"M","Henok Tesfay",6,"Eritrea","2:09:22",7762,7500
+"London",2024,"M","Hendrik Pfeiffer",7,"Germany","2:10:00",7800,5000
+"London",2024,"M","Kinde Atanaw",8,"Ethiopia","2:10:03",7803,4000
+"London",2024,"M","Johannes Motschmann",9,"Germany","2:10:39",7839,3000
+"London",2024,"M","Brian Shrader",10,"United States","2:10:50",7850,2000
+"London",2024,"M","Marc Scott",11,"GBR","2:11:19",7879,1500
+"London",2024,"M","Alexander Lepretre",12,"GBR","2:15:34",8134,1000
+"London",2025,"F","Tigst Assefa",1,"Ethiopia","2:15:50",8150,55000
+"London",2025,"F","Joyciline Jepkosgei",2,"Kenya","2:18:44",8324,30000
+"London",2025,"F","Sifan Hassan",3,"Netherlands","2:19:00",8340,22500
+"London",2025,"F","Haven Hailu Desse",4,"Ethiopia","2:19:17",8357,15000
+"London",2025,"F","Vivian Cheruiyot",5,"Kenya","2:22:32",8552,10000
+"London",2025,"F","Stella Chesang",6,"Uganda","2:22:42",8562,7500
+"London",2025,"F","Sofiia Yaremchuk",7,"Italy","2:23:14",8594,5000
+"London",2025,"F","Eilish McColgan",8,"United Kingdom","2:24:24",8664,4000
+"London",2025,"F","Rose Harvey",9,"United Kingdom","2:25:01",8701,3000
+"London",2025,"F","Susanna Sullivan",10,"United States","2:29:30",8970,2000
+"London",2025,"F","Philippa Bowden",11,"GBR","2:30:28",9028,1500
+"London",2025,"F","Molly Bookmyer",12,"USA","2:32:31",9151,1000
+"London",2025,"M","Sabastian Sawe",1,"Kenya","2:02:27",7347,55000
+"London",2025,"M","Jacob Kiplimo",2,"Uganda","2:03:37",7417,30000
+"London",2025,"M","Alexander Mutiso Munyao",3,"Kenya","2:04:20",7460,22500
+"London",2025,"M","Abdi Nageeye",4,"Netherlands","2:04:20",7460,15000
+"London",2025,"M","Tamirat Tola",5,"Ethiopia","2:04:42",7482,10000
+"London",2025,"M","Eliud Kipchoge",6,"Kenya","2:05:25",7525,7500
+"London",2025,"M","Hillary Kipkoech",7,"Kenya","2:06:05",7565,5000
+"London",2025,"M","Amanal Petros",8,"Germany","2:06:30",7590,4000
+"London",2025,"M","Mahamed Mahamed",9,"United Kingdom","2:08:52",7732,3000
+"London",2025,"M","Milkesa Mengesha",10,"Ethiopia","2:09:01",7741,2000
+"London",2025,"M","Andrew Buchanan",11,"AUS","2:09:11",7751,1500
+"London",2025,"M","Adam Lipschitz",12,"RSA","2:09:48",7788,1000
